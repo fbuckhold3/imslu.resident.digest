@@ -1,0 +1,22 @@
+# R environment / secrets
+.Renviron
+.Renviron.local
+*.env
+.RData
+.Rhistory
+.Ruserdata
+
+# renv (if adopted later)
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+
+# IDE
+.Rproj.user
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
