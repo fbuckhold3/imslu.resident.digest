@@ -23,6 +23,7 @@
         format = "json", type = "flat",
         records     = as.character(record_id),
         `forms[0]`  = "scholarship",
+        `fields[0]` = "record_id",
         rawOrLabel  = "raw", rawOrLabelHeaders = "raw",
         exportCheckboxLabel = "false", exportSurveyFields = "false",
         exportDataAccessGroups = "false", returnFormat = "json"
