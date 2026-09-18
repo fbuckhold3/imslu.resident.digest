@@ -200,24 +200,26 @@
         "License": "MIT + file LICENSE",
         "Encoding": "UTF-8",
         "Roxygen": "list(markdown = TRUE)",
-        "Imports": "dplyr,\nDT,\ngmed,\nhttr,\nlubridate,\nplotly,\nREDCapR,\nshiny,\nshinycssloaders,\ntidyr",
+        "Imports": "dplyr, DT, gmed, httr, lubridate, plotly, REDCapR, shiny,\nshinycssloaders, tidyr",
         "Suggests": "testthat (>= 3.0.0)",
         "Config/testthat/edition": "3",
         "Config/roxygen2/version": "8.0.0",
-        "Author": "Fred Buckhold [aut, cre]",
-        "Maintainer": "Fred Buckhold <fbuckhold3@icloud.com>",
-        "Built": "R 4.6.0; ; 2026-09-18 00:02:54 UTC; unix",
         "RemoteType": "github",
         "RemoteHost": "api.github.com",
-        "RemoteUsername": "fbuckhold3",
         "RemoteRepo": "amiontools",
-        "RemoteRef": "main",
-        "RemoteSha": "bd13370657098708b109fd28d6d60f4abe595b5c",
-        "GithubHost": "api.github.com",
+        "RemoteUsername": "fbuckhold3",
+        "RemoteRef": "HEAD",
+        "RemoteSha": "ca4341eb703817e8cc2fc78d2d3967a691e7d57b",
         "GithubRepo": "amiontools",
         "GithubUsername": "fbuckhold3",
-        "GithubRef": "main",
-        "GithubSHA1": "bd13370657098708b109fd28d6d60f4abe595b5c"
+        "GithubRef": "HEAD",
+        "GithubSHA1": "ca4341eb703817e8cc2fc78d2d3967a691e7d57b",
+        "NeedsCompilation": "no",
+        "Packaged": "2026-09-18 23:13:36 UTC; home_base",
+        "Author": "Fred Buckhold [aut, cre]",
+        "Maintainer": "Fred Buckhold <fbuckhold3@icloud.com>",
+        "Depends": "R (>= 4.1.0)",
+        "Built": "R 4.6.0; ; 2026-09-18 23:13:36 UTC; unix"
       }
     },
     "askpass": {
@@ -2814,7 +2816,7 @@
       "checksum": "53946de2dc04e7f43c4495ace0d80bd1"
     },
     "R/modules/mod_duty_entry.R": {
-      "checksum": "c0643126e56021cb4a1f601f160ca588"
+      "checksum": "b34b47b84b5341096b5eded8a7b9bbfe"
     },
     "R/modules/mod_eval_summary.R": {
       "checksum": "cde87e7572699ffa906f9240853f6155"
@@ -2835,7 +2837,7 @@
       "checksum": "106908cdb1f5c1e67157e7c609c44b64"
     },
     "renv.lock": {
-      "checksum": "70f4b875ebea650d871832be40f88c7f"
+      "checksum": "b3b3bfeb3ca2e9b2e2afc805ace10621"
     }
   },
   "users": null

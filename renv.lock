@@ -237,14 +237,18 @@
       ],
       "Config/testthat/edition": "3",
       "Config/roxygen2/version": "8.0.0",
-      "Author": "Fred Buckhold [aut, cre]",
-      "Maintainer": "Fred Buckhold <fbuckhold3@icloud.com>",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteUsername": "fbuckhold3",
       "RemoteRepo": "amiontools",
-      "RemoteRef": "main",
-      "RemoteSha": "bd13370657098708b109fd28d6d60f4abe595b5c"
+      "RemoteUsername": "fbuckhold3",
+      "RemoteRef": "HEAD",
+      "RemoteSha": "ca4341eb703817e8cc2fc78d2d3967a691e7d57b",
+      "NeedsCompilation": "no",
+      "Author": "Fred Buckhold [aut, cre]",
+      "Maintainer": "Fred Buckhold <fbuckhold3@icloud.com>",
+      "Depends": [
+        "R (>= 4.1.0)"
+      ]
     },
     "askpass": {
       "Package": "askpass",
