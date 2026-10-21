@@ -225,6 +225,7 @@
         "DT",
         "gmed",
         "httr",
+        "jsonlite",
         "lubridate",
         "plotly",
         "REDCapR",
@@ -237,18 +238,14 @@
       ],
       "Config/testthat/edition": "3",
       "Config/roxygen2/version": "8.0.0",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "amiontools",
-      "RemoteUsername": "fbuckhold3",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "ca4341eb703817e8cc2fc78d2d3967a691e7d57b",
-      "NeedsCompilation": "no",
       "Author": "Fred Buckhold [aut, cre]",
       "Maintainer": "Fred Buckhold <fbuckhold3@icloud.com>",
-      "Depends": [
-        "R (>= 4.1.0)"
-      ]
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "fbuckhold3",
+      "RemoteRepo": "amiontools",
+      "RemoteRef": "38e609f946d7333c6191efd96c5e21a685a6cc70",
+      "RemoteSha": "38e609f946d7333c6191efd96c5e21a685a6cc70"
     },
     "askpass": {
       "Package": "askpass",
@@ -1238,6 +1235,7 @@
       "Imports": [
         "dplyr",
         "httr",
+        "curl",
         "readr",
         "jsonlite",
         "DT",
@@ -1265,7 +1263,7 @@
       "RemoteUsername": "fbuckhold3",
       "RemoteRepo": "gmed",
       "RemoteRef": "main",
-      "RemoteSha": "edf636647a1e5991afa50d2e4aa8e9b356eb7361"
+      "RemoteSha": "45c650c203d1a75f22406f5a92ee5d3d5c936fb3"
     },
     "gtable": {
       "Package": "gtable",
